@@ -2,7 +2,7 @@
     "groups": [
         {
             "name": "Kryptokrona",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "xkr",
                 "kryptokrona"
@@ -11,7 +11,7 @@
         },
         {
             "name": "Hugin",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "xkr",
                 "kryptokrona",
@@ -21,7 +21,7 @@
         },
         {
             "name": "Programming",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "software",
                 "development"
@@ -30,7 +30,7 @@
         },
         {
             "name": "Gaming",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "gaming"
             ],
@@ -38,7 +38,7 @@
         },
         {
             "name": "Cryptocurrency",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "crypto",
                 "cryptocurrency",
@@ -48,7 +48,7 @@
         },
         {
             "name": "Privacy",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "privacy",
                 "security"
@@ -57,7 +57,7 @@
         },
         {
             "name": "Politics",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "politics"
             ],
@@ -65,7 +65,7 @@
         },
         {
             "name": "Sweden",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "sweden",
                 "country",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Norway",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "norway",
                 "country",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Denmark",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "denmark",
                 "country",
@@ -95,7 +95,7 @@
         },
         {
             "name": "Finland",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "finland",
                 "country",
@@ -105,13 +105,23 @@
         },
         {
             "name": "China",
-            "standard": "true",
+            "standard": true,
             "category": [
                 "china",
                 "country",
                 "region"
             ],
             "key": "03aed1def7f6010f810c3347cab7970a0c5a6950fb0fccb75b10b891c4181400"
+        },
+        {
+            "name": "Rust",
+            "standard": false,
+            "category": [
+                "rust",
+                "software",
+                "language"
+            ],
+            "key": "50b0354f0e84d1208b626577757102775c2fa1c708ce7f5f6a0495946368f9f0"
         }
     ]
 }
