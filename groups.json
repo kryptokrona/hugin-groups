@@ -20,6 +20,16 @@
             "key": "20b4821b90b2ea7355cb7ed7fa60823016eedef0e3541376888f8adc55df75f8"
         },
         {
+            "name": "Support",
+            "standard": true,
+            "category": [
+                "xkr",
+                "kryptokrona",
+                "hugin"
+            ],
+            "key": "345e8da2223971f1dc9ad39f2cd8b9d875256c9041ac9d7af793be2c137670ac"
+        },
+        {
             "name": "Programming",
             "standard": true,
             "category": [
