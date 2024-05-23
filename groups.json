@@ -30,6 +30,16 @@
             "key": "345e8da2223971f1dc9ad39f2cd8b9d875256c9041ac9d7af793be2c137670ac"
         },
         {
+            "name": "China",
+            "standard": true,
+            "category": [
+                "china",
+                "country",
+                "region"
+            ],
+            "key": "03aed1def7f6010f810c3347cab7970a0c5a6950fb0fccb75b10b891c4181400"
+        },
+        {
             "name": "Programming",
             "standard": true,
             "category": [
@@ -112,16 +122,6 @@
                 "region"
             ],
             "key": "6e0861b7e3bcb3c83040d6003f2cd407bb249959f5c6c0959ac1de4f91f6e756"
-        },
-        {
-            "name": "China",
-            "standard": true,
-            "category": [
-                "china",
-                "country",
-                "region"
-            ],
-            "key": "03aed1def7f6010f810c3347cab7970a0c5a6950fb0fccb75b10b891c4181400"
         },
         {
             "name": "Rust",
